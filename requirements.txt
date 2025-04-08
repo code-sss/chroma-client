@@ -1,0 +1,4 @@
+python-dotenv
+chromadb-client
+transformers==4.49.0  # 4.51.0 was causing the issue with init_empty_weights. May be tested in the future.
+sentence-transformers
